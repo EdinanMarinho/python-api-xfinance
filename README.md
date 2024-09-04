@@ -1,7 +1,7 @@
 # Projeto de Conexão de APIs com Python no Sistema Financeiro My Fin
 
 
-Este documento visa detalhar o processo de desenvolvimento do projeto de Conexão de APIs utilizando Python no sistema modelo financeiro My Fin. O objetivo é apresentar as etapas envolvidas, desde a extração dos dados via API até os próximos passos de integração e análise com Power BI.
+Este documento visa detalhar o processo de desenvolvimento do projeto de Conexão de APIs utilizando Python no sistema modelo financeiro <a href="https://myfin-financial-management.bubbleapps.io/dashboard"> My Fin</a>. O objetivo é apresentar as etapas envolvidas, desde a extração dos dados via API até os próximos passos de integração e análise com Power BI.
 
 # 1. Introdução ao Projeto
 Este projeto foi idealizado para simular um cenário real de uma empresa, utilizando o sistema My Fin. O desafio principal é desenvolver uma solução automatizada para extrair dados financeiros via API e integrá-los em um ambiente de análise. Até o momento, foram concluídas duas etapas fundamentais, com foco na extração e tratamento inicial dos dados.
